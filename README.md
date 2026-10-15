@@ -1,4 +1,6 @@
-# Portafolio Profesional & Hoja de Vida Digital • Joel David Alcendra Carballo
+ # Portafolio Profesional & Hoja de Vida Digital • Joel David Alcendra Carballo
+
+<!-- # Portafolio Profesional & Hoja de Vida Digital • Joel David Alcendra Carballo
 
 > **"ENGINEERED TO CREATE"**  
 > Portafolio interactivo de alta fidelidad para **Ingeniero de Sistemas en Formación** (Universidad Libre, Barranquilla, Colombia).
@@ -145,4 +147,4 @@ Para actualizar:
    - Destino: **Guardar como PDF**
    - Márgenes: **Predeterminados** o **Mínimos**
    - Gráficos de fondo: **Activados**
-5. Guarda el archivo `.pdf` listo para enviar a reclutadores.
+5. Guarda el archivo `.pdf` listo para enviar a reclutadores. -->
